@@ -1,0 +1,50 @@
+body{
+	font-size: 10px;
+	background-color:white; 
+	color: black;
+	font-family: 'Oxygen', sans-serif;
+	
+}
+#header-nav.navbar.navbar-default{
+	background-color: gray;
+}
+
+div.container{
+	background-color: lightgray;
+	padding: 15px;
+}
+.navbar-brand{
+	padding:25px; 
+}
+ h1{
+ 	margin: 0px;
+ }
+ .navbar-toggle.collapsed{
+ 	background-color: gray;
+ }
+a span{
+	font-size: 1.5em;
+}
+.h1{
+	text-align: center;
+	color: gray;
+}
+.col-xs-12{
+             border: 1px solid black;
+             margin: 15px;
+             background-color: gray;
+             width:90%;
+			}
+			.chicken,.beef,.sushi{
+			    color: white;
+			    font-size: 2em;
+				width:35%;
+				margin:auto;
+				text-align: center;
+			}
+			.d1,.d2,.d3{
+				padding: 10px;
+				font-size: 16px;
+				font-style: italic; 
+				font-weight: 900;
+			}
